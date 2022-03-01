@@ -30,7 +30,7 @@ one of them from the dropdown menu and press play 🛀🏽.
 
 ## License
 
-Copyright © 2022 Lucas dos Anhos Moraes
+Copyright © 2022 Lucas dos Anjos Moraes
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
