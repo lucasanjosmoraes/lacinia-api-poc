@@ -2,6 +2,20 @@
 
 POC a GraphQL API using [Lacinia](https://github.com/walmartlabs/lacinia). It follows the tutorial from the [Lacinia Docs](https://lacinia.readthedocs.io/en/latest/tutorial/index.html).
 
+## About the project
+
+- Useful dependencies
+  - [com.stuart/component](https://github.com/stuartsierra/component): Manages dependencies and application state;
+  - [com.mchange/c3p0](https://github.com/bostonaholic/clojure.jdbc-c3p0): Manages connection pooling for JDBC;
+  - [io.aviso/logging](https://github.com/AvisoNovate/logging): Logging with correlated requests
+- Example of application configuration with [component](https://github.com/stuartsierra/component);
+- Example of an graphQL API with its schema defined in `edn`;
+- Example of database management with `jdbc` in clojure;
+- Utils for the `user`, the  default namespace of `repl`;
+- Logback configuration for tests executions;
+- Useful examples of unit tests;
+- Missing executable, all via `repl`.
+
 ## Usage
 
 ## Before start
